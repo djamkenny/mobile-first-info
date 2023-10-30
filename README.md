@@ -37,6 +37,7 @@ Media queries are a key CSS feature for creating responsive designs. They allow 
 @media screen and (max-width: 768px) {
    /* This allows you to apply styles only when the screen size is a max-width of 768px. */
 }
+
 @media screen and (min-width: 769px) {
    /* This allows you to apply styles only when the screen size is a min-width of 769px. */
 }
